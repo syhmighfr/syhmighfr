@@ -1,7 +1,7 @@
 # Hi, I'm Syahmi Ghafar 👋
 
 🎓 Computer Science graduate from Malaysia  
-💼 Aspiring DevOps Engineer | Cloud Enthusiast  
+💼 Aspiring DevSecOps Engineer | Cloud Enthusiast  
 🌏 Based in Selangor, Malaysia  
 🎹 Piano player & 🎨 hobbyist artist when not in the terminal
 
