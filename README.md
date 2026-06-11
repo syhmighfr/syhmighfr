@@ -1,7 +1,7 @@
 # Hi, I'm Syahmi Ghafar 👋
 
 🎓 Computer Science graduate from Malaysia  
-💼 Aspiring DevSecOps Engineer | Cloud Enthusiast  
+💼 Aspiring Cloud Engineering / Cybersecurity 
 🌏 Based in Selangor, Malaysia  
 🎹 Piano player & 🎨 hobbyist artist when not in the terminal
 
@@ -44,9 +44,9 @@ containerization, CI/CD pipelines, infrastructure as code, and cloud architectur
 
 | Project | Description | Stack |
 |---|---|---|
-| devops-project-01 | Dockerized web app with CI/CD pipeline | Docker, GitHub Actions, AWS EC2 |
-| devops-project-02 | Infrastructure as Code on AWS | Terraform, AWS |
-| devops-project-03 | Kubernetes deployment with monitoring | K8s, Prometheus, Grafana |
+| aws-cloud-infra | Dockerized web app with CI/CD pipeline | Docker, GitHub Actions, AWS EC2 |
+| security-homelab | Infrastructure as Code on AWS | Terraform, AWS |
+| cicd | Kubernetes deployment with monitoring | K8s, Prometheus, Grafana |
 
 ---
 
