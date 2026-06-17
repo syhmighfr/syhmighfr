@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a graduate passionate about DevOps, cloud infrastructure, and automation.
+I'm a graduate passionate about Cloud infrastructure and automation.
 I interned at **Malaysia Airports Holdings Berhad (MAHB)** and **BWT-Service Malaysia**,
 where I worked on web development and quality testing — building a strong foundation
 in software delivery and the SDLC.
