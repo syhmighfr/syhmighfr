@@ -1,65 +1,15 @@
 # Hi, I'm Syahmi Ghafar 👋
 
 🎓 Computer Science graduate from Malaysia  
-💼 Aspiring Cloud Engineering / Cybersecurity 
+💼 Aspiring Cloud Engineering / Cybersecurity / Tech Engineer
 🌏 Based in Selangor, Malaysia  
-🎹 Piano player & 🎨 hobbyist artist when not in the terminal
 
 ---
 
 ## 🚀 About Me
 
-I'm a graduate passionate about Cloud infrastructure and automation.
-I interned at **Malaysia Airports Holdings Berhad (MAHB)** and **BWT-Service Malaysia**,
-where I worked on web development and quality testing — building a strong foundation
-in software delivery and the SDLC.
-
-Now I'm focused on building real-world DevOps skills through hands-on projects:
-containerization, CI/CD pipelines, infrastructure as code, and cloud architecture.
-
----
-
-## 🛠️ Tech Stack
-
-**Operating System**
-![Linux](https://img.shields.io/badge/Linux-Pop!_OS-orange?logo=linux)
-
-**DevOps & Cloud**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
-
-**Development**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-> 🔨 Currently building — check back soon!
-
-| Project | Description | Stack |
-|---|---|---|
-| aws-cloud-infra | Dockerized web app with CI/CD pipeline | Docker, GitHub Actions, AWS EC2 |
-| security-homelab | Infrastructure as Code on AWS | Terraform, AWS |
-| cicd | Kubernetes deployment with monitoring | K8s, Prometheus, Grafana |
-
----
-
-## 📜 Certifications (In Progress)
-
-
----
-
-## 📊 GitHub Stats
-
-![Syahmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syhmighfr&show_icons=true&theme=default)
-
----
+I'm a Computer Science graduate, but if you hand me a choice between debugging code and cracking open a laptop chassis, I'm reaching for the screwdriver every time. I'm most at home where hardware, networking, and infrastructure meet — racks, cabling, VMs, and the occasional thermal paste emergency
+Now I'm focused on building real-world tech skills.
 
 ## 📫 Connect With Me
 
