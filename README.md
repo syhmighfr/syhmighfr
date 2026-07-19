@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science graduate, but if you hand me a choice between debugging code and cracking open a laptop chassis, I'm reaching for the screwdriver every time. I'm most at home where hardware, networking, and infrastructure meet — racks, cabling, VMs, and the occasional thermal paste emergency
+I'm a Computer Science graduate, but if you hand me a choice between debugging code and cracking open a laptop chassis, I'm reaching for the screwdriver every time. I'm most at home where hardware, networking, and infrastructure meet racks, cabling, VMs, and the occasional thermal paste emergency
 Now I'm focused on building real-world tech skills.
 
 ## 📫 Connect With Me
